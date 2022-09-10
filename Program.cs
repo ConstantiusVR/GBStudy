@@ -73,4 +73,5 @@ int LengthCounter (array a, array b)
  int array b = {3,9,11}; 
 
  int c = LengthCounter();
- Console.WriteLine(c);pwd
+ Console.WriteLine(c);
+ 
