@@ -74,4 +74,44 @@ int LengthCounter (array a, array b)
 
  int c = LengthCounter();
  Console.WriteLine(c);
- 
+
+ // Задача 25: Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
+
+int Exponentiation (int a, int b)
+{ 
+    int i = 0;
+    
+    while (i<= b)
+    {
+        int result = 1;
+        result = result*a;
+        i++;
+        
+    }
+    return result;
+}
+int a = 2;
+int b = 3;
+
+int c = Exponentiation(a,b);
+
+Console.WriteLine(c);
+
+
+// Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+
+int number = Console.Read();
+ Console.Write("Введите целое число number: ");
+ Console.WriteLine(number);
+
+int SumOfNumbers(int number)
+{
+    while (number< a)
+    {
+        int a = 10;
+        int result = 0;
+        result = result + number % a;
+        number = number/10;
+    }
+    return result;
+}
