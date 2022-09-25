@@ -64,7 +64,7 @@ void CreateNewArray (int [] array)
     }
 }
 
-int [] b = new int[9];
+int [] b = new int[7];
 
 void PrintArr(int[] arr)
 {
@@ -105,7 +105,7 @@ Console.WriteLine(calculation);
 Console.WriteLine();
 
 
-//Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
+// Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 
 void CreateRealArray (double [] array)
 {
@@ -118,7 +118,7 @@ void CreateRealArray (double [] array)
     }
 }
 
-double [] c = new double[4];
+double [] c = new double[9];
 
 void PrintRealArr(double[] arr)
 {
@@ -135,23 +135,23 @@ double CountDiff (double[] c)
 {
     int quantity = c.Length;
     int index = 0;
-    double max = c[0];
-    double min = c[0];
+    double max = 0;
+    double min = 0;
     double diff = max - min;
     while (index< quantity)
     {
-        if (c[index]>max)
+        if (index>max)
         {
-            c[index] = max;
-            index++;
+            max = index;
+            
         } 
-        if (c[index]<min)
+        if (index<min)
         {
-            c[index] = min;
-            index++;
+            min = index;
+        
         }
         
-
+        index++;
     }
      return diff;
 
@@ -163,3 +163,4 @@ Console.WriteLine();
 
 double difference = CountDiff(c);
 Console.WriteLine(difference);
+
