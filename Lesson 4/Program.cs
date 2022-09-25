@@ -134,26 +134,21 @@ void PrintRealArr(double[] arr)
 double CountDiff (double[] c)
 {
     int quantity = c.Length;
-    int index = 0;
     double max = 0;
-    double min = 0;
+    double min = 0; 
+
+for (int x = 0; x< quantity; x++)
+{
+    if (x> max) 
+        max = x;
+    if (x<min)
+        min = x;
+ 
+}
+
+
     double diff = max - min;
-    while (index< quantity)
-    {
-        if (index>max)
-        {
-            max = index;
-            
-        } 
-        if (index<min)
-        {
-            min = index;
-        
-        }
-        
-        index++;
-    }
-     return diff;
+    return diff;
 
 }
 
