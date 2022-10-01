@@ -1,0 +1,15 @@
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/bin/Debug/net6.0/Lesson 6
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/bin/Debug/net6.0/Lesson 6.deps.json
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/bin/Debug/net6.0/Lesson 6.runtimeconfig.json
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/bin/Debug/net6.0/Lesson 6.dll
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/bin/Debug/net6.0/Lesson 6.pdb
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/obj/Debug/net6.0/Lesson 6.csproj.AssemblyReference.cache
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/obj/Debug/net6.0/Lesson 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/obj/Debug/net6.0/Lesson 6.AssemblyInfoInputs.cache
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/obj/Debug/net6.0/Lesson 6.AssemblyInfo.cs
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/obj/Debug/net6.0/Lesson 6.csproj.CoreCompileInputs.cache
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/obj/Debug/net6.0/Lesson 6.dll
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/obj/Debug/net6.0/refint/Lesson 6.dll
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/obj/Debug/net6.0/Lesson 6.pdb
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/obj/Debug/net6.0/Lesson 6.genruntimeconfig.cache
+/Users/konstantinratkin/Desktop/geekbrains/III - Знакомство с языками программирования/Hw-2/Homework/Lesson 6/obj/Debug/net6.0/ref/Lesson 6.dll
